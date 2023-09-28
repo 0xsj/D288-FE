@@ -2,6 +2,12 @@ package day1;
 
 public class HelloWorld {
 
+    // single line comment
+
+    /*
+     * multi line comment
+     */
+
     float hours = 40;
 
     public static void main(String[] args) {
